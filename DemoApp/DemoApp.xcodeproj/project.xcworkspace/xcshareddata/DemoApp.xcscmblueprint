@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "587BDF32663B34C1817E3284AE248F23E4D95CE1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "587BDF32663B34C1817E3284AE248F23E4D95CE1" : 0,
+    "7B3173A9A8711E26B2B7E8EB32A82862FE9BF726" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "946B08EC-FE63-4FD4-91B4-5D0EF3B2D242",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "587BDF32663B34C1817E3284AE248F23E4D95CE1" : "MTTableFooterView\/",
+    "7B3173A9A8711E26B2B7E8EB32A82862FE9BF726" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DemoApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DemoApp\/DemoApp\/DemoApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maxxx777\/MTTableFooterView",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "587BDF32663B34C1817E3284AE248F23E4D95CE1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/alexthec0d3r\/scheduleapp-iphone-cloned.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7B3173A9A8711E26B2B7E8EB32A82862FE9BF726"
+    }
+  ]
+}
